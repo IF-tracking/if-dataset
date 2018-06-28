@@ -22,9 +22,10 @@ More information about the dataset is in the table below:
 | 5             | 50               | 50                    | ./Sequences/5 |
 
 
-## How to pull
+## Downloading the datasets.
 
-In order to be able to download correctly large image sequence data, please, install Git Large File Storage: https://git-lfs.github.com/ 
+The image sequence files were uploaded using Git LFS (Large File Storage), which one can download and install here:<\br>
+https://git-lfs.github.com/ 
 ```
 git lfs install
 ```
